@@ -12,10 +12,10 @@
 
 
 <div align="center" name="inicio">
-  <img src="https://github.com/user-attachments/assets/2095a7ec-acfc-4982-8bf5-16341179fd90" alt="Icone kurly klaw" width=30% height=auto>
+  <img src="" alt="Icone kurly klaw" width=30% height=auto>
 </div>
 
-# GEABEG-Financeiro 🐉
+# GEABEG-Financeiro 
 
 ###### Keywords: Projeto Integrado 1 - Sistemas e Mídias Digitais - Universidade Federal do Ceará
 
@@ -47,22 +47,6 @@ Daniel | Design
 Kricia | Dev. FrontEnd
 Gabriel C. | Dev. FrontEnd
 Pedro Ivo Lobo | Dev. FrontBack
-
-<h2 name="marca"> Identidade Visual </h2> 
-
-<div position="relative" margin=20px align="center" width=80% height="auto">
-  <img src="https://github.com/user-attachments/assets/0456442f-2d1b-4de5-9ee0-bdfc497f242f" alt="Identidade do grupo" width=40% height=auto align="left">
-  <img src="https://github.com/user-attachments/assets/74a995c3-abd1-481b-b399-c84fd9fdfc5e" alt="Identidade do grupo" width=40% height=auto align="rigth">
-  <img src="https://github.com/user-attachments/assets/c6394c51-8010-4fbf-91b6-a4ab58a48422" alt="Identidade do grupo" width=30% height=auto align="rigth">
-  <img src="https://github.com/user-attachments/assets/b481705c-d84b-4938-a006-a3bfc568551d" alt="Identidade do grupo" width=30% height=auto align="rigth">
-</div> 
-
-## Paleta
-
-<div>
-	<img src="https://github.com/user-attachments/assets/41082912-c118-4aea-aacd-b63ed2d9f472" alt="Cores usadas na identidade do grupo. Azul leve: #2440BF ; Laranja forte: #6D7FD1 ; Azul marcante: #E3B92D ; Amarelo leve: #DB5E0B ; Ocre: #F5DF85 ; Preto: #000000 " width=100% height=auto>
-	Azul leve: #6D7FD1 ; Laranja forte: #DB5E0B ; Azul marcante: #2440BF ; Amarelo leve: #F5DF85 ; Ocre: #E3B92D ; Preto: #000000 
-</div> 
 
 <h2 name="tecnologias">Tecnologias escolhidas</h2>
 
